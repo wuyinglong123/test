@@ -1,0 +1,3 @@
+/home/wuyinglong/demo/CMakeFiles/rebuild_cache.dir
+/home/wuyinglong/demo/CMakeFiles/edit_cache.dir
+/home/wuyinglong/demo/CMakeFiles/main.dir
